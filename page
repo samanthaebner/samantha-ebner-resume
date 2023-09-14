@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Samantha Ebner Resume</title>
+    <style>
+    h1 {
+    font-size: 36px;
+    color: #33485e;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>Samantha Ebner</h1>
+    <img src="xx.jpg" alt="Samantha Ebner" width="300">
+    <br>
+    <ul>
+    <li><a href="mailto:sebner@terpmail.umd.edu">sebner@terpmail.umd.edu</a></li>
+    <li><a href="https://www.linkedin.com/in/samantha-ebner-644877229/">LinkedIn</a></li>
+    <li><a href="https://github.com/samanthaebner">GitHub</a></li>
+    </ul>
+
+    <h2>EDUCATION:</h2>
+    <ul>
+    <li> University of Maryland</li>
+    <li> Expected Graduation - May 2025</li>
+    <li> Bachelor of Arts, Journalism - Philip Merrill College of Journalism</li>
+    <li> General Business Minor - Robert H. Smith School of Business</li>
+    <li> University of Maryland President's Scholarship</li>
+    <li> Dean's List Academic Honors (Fall 2021 - Present) </li>
+    </ul>
+
+    <h2> WORK EXPERIENCE:</h2>
+    <br>
+    <h3> Lox Club </h3>
+    <h4> Events Department Intern </h4>
+    <h5> June 2023 - Present </h5> 
+    <ul>
+    <li> Plan member events and negotiate partnerships for Lox Club, a national, membership based, online dating social club.</li>
+    <li> Research and reserve unique event venues and arrange collaborations, partnerships and sponsorships with third party companies for such events.</li>
+    <li> Assist in planning launch parties and related events for new affiliate online businesses.</li>
+    </ul> 
+
+    <h3> My Leg Up </h3>
+    <h4> Head of Business Development </h4>
+    <h5> May 2023 - Present </h5> 
+    <ul>
+    <li> Utilize social media, including writing and publishing articles, to market the start-up website that provides resources to college students seeking employment with consulting and investment banking firms.</li>
+    <li> Communicate with over 15 college career centers and students to tailor website’s services to needs and interests of individual universities.</li>
+    </ul> 
+
+<h3> Shamaym </h3>
+    <h4> Marketing Intern </h4>
+    <h5> June 2022 - August 2022 </h5> 
+    <ul>
+    <li> Created social media posts for a marketing company founded by Israeli Air Force pilots to promote its innovative business consulting platform.</li>
+    </ul> 
+
+<h3> Kol HaNearim </h3>
+    <h4> Volunteer </h4>
+    <h5> June 2021 - August 2021 </h5> 
+    <ul>
+    <li> Counselor and event leader for girls in a group home for at-risk teenagers.</li>
+    </ul> 
+
+<h2>SCHOOL ACTIVITIES AND LEADERSHIP:</h2>
+    <br>
+    <h3> TAMID</h3>
+    <h4> President</h4>
+    <h5> June 2023 - Present</h5> 
+    <ul>
+    <li> Lead the University of Maryland’s chapter of TAMID, a national organization aimed at fostering the next generation of business leaders and innovators through education, consulting technology, and investing experience.</li>
+    <li> Manage and allocate the $1,000 semesterly budget as well as pursue other grant opportunities. </li>
+    <li> Coordinate two professional development opportunities per semester with consulting and investment banking firms.</li>
+    </ul> 
+ <h4> Director of Brand and Project Manager </h4>
+    <h5> December 2021 - June 2023 </h5> 
+    <ul>
+    <li> Operated and supervised TAMID at Maryland’s social media accounts and compiled monthly newsletters and annual reports detailing the prior semester.</li>
+    <li> Served as liaison between a consulting team and an Israeli start-up company.</li>
+    </ul> 
+ <h4> Consulting Track and Branding Committee Member </h4>
+    <h5> September 2021 - December 2021 </h5> 
+    <ul>
+    <li> 
+    <li> Assisted with drafting monthly newsletters and compiling annual reports.</li>
+    </ul> 
+
+ <h3> National Hillel Basketball Tournament</h3>
+    <h4> Campus Recruitment Team </h4>
+    <h5> September 2022 - Present</h5> 
+    <ul>
+    <li> Recruit 28 universities throughout the United States to participate in a national basketball tournament at the University of Maryland.</li>
+    </ul> 
+ <h4> Business Development Team </h4>
+    <h5> December 2021 - June 2023 </h5> 
+    <ul>
+    <li> Contact and cultivate businesses and individuals for tournament sponsorships and philanthropic opportunities.</li>
+    </ul> 
+
+ <h3> University of Maryland Writing Center </h3>
+    <h4> Writing Tutor </h4>
+    <h5> August 2022 - Present</h5> 
+    <ul>
+    <li> Selected by the University of Maryland to assist college students (in-person, live online, and asynchronously) with improving writing, grammar, research, critical thinking, and interpersonal skills to help prepare students for academic and professional success. </li>
+    </ul> 
+
+ <h3> Alpha Epsilon Phi </h3>
+    <h4> In-House/Out-of-House Relations Chair and Assistant Panhellenic Association Assistant Chair </h4>
+    <h5> January 2022 - Present</h5> 
+
+<h2>SKILLS & INTERESTS:</h2>
+    <br>
+    <ul>
+    <li> Skills: Excel, Github, Canva, and Eventbrite. </li>
+    <li> Interests: Reading, writing, yoga, pilates, running, fashion, and travel.</li>
+    </ul> 
+
+</body>
+
+</html>
